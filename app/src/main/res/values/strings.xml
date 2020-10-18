@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidLab1</string>
+    <string name="enter_name_hint">Please enter your name here</string>
+    <string name="save">Save</string>
+    <string name="clicks">count %1$d clicks</string>
+    <string name="next_acitivity">Next Acitivity</string>
+</resources>

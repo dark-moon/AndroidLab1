@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_name_hint">من فضلك أدخل اسمك هنا</string>
+    <string name="save">حفظ</string>
+    <string name="clicks">عدد النقرات %1$d</string>
+    <string name="next_acitivity">Next Acitivity</string>
+</resources>
